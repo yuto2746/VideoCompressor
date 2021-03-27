@@ -1,0 +1,5 @@
+/.vs/
+/VideoCompressor/bin
+/VideoCompressor/obj
+!/VideoCompressor/bin/**/*.exe
+*.user
