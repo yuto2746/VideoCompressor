@@ -1,9 +1,3 @@
 *.user
 /.vs
-/VideoCompressor/bin/Release/netcoreapp3.1/*
-!/VideoCompressor/bin/Release/netcoreapp3.1/ffmpeg.exe
-!/VideoCompressor/bin/Release/netcoreapp3.1/VideoCompressor.exe
-/VideoCompressor/bin/Debug/netcoreapp3.1/*
-!/VideoCompressor/bin/Debug/netcoreapp3.1/ffmpeg.exe
-!/VideoCompressor/bin/Debug/netcoreapp3.1/VideoCompressor.exe
 /VideoCompressor/obj/*
