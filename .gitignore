@@ -1,3 +1,4 @@
 *.user
+*.runtimeconfig.dev.json
 /.vs
 /VideoCompressor/obj/*
